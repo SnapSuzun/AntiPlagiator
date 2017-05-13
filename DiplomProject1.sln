@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomProject1", "DiplomProject1\DiplomProject1.csproj", "{75CCFBB7-B089-4F81-830E-9BDF7E9E9486}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Diplom", "Diplom\Diplom.modelproj", "{EC1E2407-FC14-43D5-A152-B00ED4A7A75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CCFBB7-B089-4F81-830E-9BDF7E9E9486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CCFBB7-B089-4F81-830E-9BDF7E9E9486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CCFBB7-B089-4F81-830E-9BDF7E9E9486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CCFBB7-B089-4F81-830E-9BDF7E9E9486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1E2407-FC14-43D5-A152-B00ED4A7A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E2407-FC14-43D5-A152-B00ED4A7A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E2407-FC14-43D5-A152-B00ED4A7A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E2407-FC14-43D5-A152-B00ED4A7A75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

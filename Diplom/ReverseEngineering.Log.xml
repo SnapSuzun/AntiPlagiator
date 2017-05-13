@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2016-06-20T11:44:06" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;829b035c-9736-42e4-97be-26a087356ee5&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;aebf72bd-95cb-4506-b0fe-fb5d80d62e4b&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Boolean&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::oper&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Action::value&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::checkArray&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::checkArray::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::checkArray::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::generateToken&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Operator&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::Params&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::parseParams&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::parseParams::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::parseValue&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::parseValue::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::parseValue::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Action::RecursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam::ActionParam&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam::ActionParam::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam::ActionParam::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam::ActionParam::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ActionParam::ActionParam::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::BasicSyntaxObjects&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::BasicSyntaxObjects::filename&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::classes&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::comments&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::FileName&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::functions&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getOperationIndex&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getOperationIndex::oper&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getOperationRatio&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getOperationRatio::operation&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getReversePolishNotation&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::getReversePolishNotation::input&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::ignoreOperators&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::instance&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::Instance&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isIgnoreOperator&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isIgnoreOperator::str&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isLink&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isLink::str&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isOperation&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isOperation::oper&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isOperator&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::isOperator::str&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::loadSettingsFromFile&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::loadSettingsFromFile::filename&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::modifiers&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::operations&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::operators&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::others&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::preprocessors&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::readParams&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::readParams::dest&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::readParams::param&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::readParams::xmlString&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::types&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::BasicSyntaxObjects::variables&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Body&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::BodyOffset&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Children&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::CodeObjectInterface&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::CompareTo&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::CompareTo::compare&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::generateToken&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Length&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Modificators&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Name&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Node&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseActions&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseActions::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseActions::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseDoWhile&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseDoWhile::inBody&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseDoWhile::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseForWhile&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseForWhile::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseForWhile::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseIfElse&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseIfElse::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseIfElse::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseVariables&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseVariables::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::parseVariables::offset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Position&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::RecursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::token&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Token&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Type&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::CodeObjectInterface::Value&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::Comparator&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::accuracy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::file1&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::file2&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::minLength&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::pMatches&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::CompareMethods::tMatches&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::GreedyStringTiling&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::GreedyStringTiling::minLength&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::GreedyStringTiling::P&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::GreedyStringTiling::T&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::JackardCoef&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::JackardCoef::n&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::JackardCoef::str1&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::JackardCoef::str2&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SequenceAlignmentMethod&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SequenceAlignmentMethod::P&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SequenceAlignmentMethod::T&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SimCoeff&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SimCoeff::commonMatchLength&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SimCoeff::PLength&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Comparator::SimCoeff::TLength&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::accuracy&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::ClearFile1&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::ClearFile2&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::Compare&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::Compare::MatchP&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::Compare::MatchT&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::Controller&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::file1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::file2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::GetTreeFile1&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::GetTreeFile2&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::instance&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::Instance&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::minLength&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetAccuracy&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetAccuracy::acc&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetFile1&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetFile1::filename&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetFile2&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetFile2::filename&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetMinLength&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Controller::SetMinLength::len&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::CompareTo&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::CompareTo::compare&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::Coord&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::Coord::_length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::Coord::_newPos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::Coord::_pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::length&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::newPos&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Coord::pos&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Defenition&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Defenition::Defenition&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr::condition&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::DoWhileConstr::DoWhileConstr::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::body&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::Body&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::bodyClear&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::clearStrings&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::clearStrings::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::FileCode&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::FileCode::filename&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::filename&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::FileName&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::findFunctions&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::findFunctions::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::findVariables&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::findVariables::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::loadFileBody&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::Node&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::objects&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::Objects&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::parseBody&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::parseBody::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::RecoveryPosition&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::RecoveryPosition::obj&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::RecoveryPositions&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::recursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::RecursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::removeComments&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::removeComments::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::removePreprocessors&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::removePreprocessors::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::replaced&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::Reset&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::token&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::FileCode::Token&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr::condition&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ForConstr::ForConstr::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button1_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button1_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button1_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button2_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button2_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button2_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button3_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button3_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::button3_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear1_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear1_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear1_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear2_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear2_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonClear2_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonLoadFile1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::buttonLoadFile2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::Compare&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::components&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::Dispose&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::Dispose::disposing&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::file1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::file2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::Form1&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::groupBox1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::groupBox2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::groupBox3&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::InitializeComponent&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::label1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::label2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::labelCoeff&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::labelLength&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::labelPercent&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::open2ToolStripMenuItem_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::open2ToolStripMenuItem_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::open2ToolStripMenuItem_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::openFileDialog_LoadCode&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::openToolStripMenuItem_Click&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::openToolStripMenuItem_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::openToolStripMenuItem_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::richTextBox_FileView1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::richTextBox_FileView2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::splitContainer1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::splitContainer2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::splitContainer3&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarAccuracy&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarAccuracy_Scroll&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarAccuracy_Scroll::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarAccuracy_Scroll::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarLength&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarLength_Scroll&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarLength_Scroll::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::trackBarLength_Scroll::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::treeView1&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Form1::treeView2&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr::condition&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::IfElseConstr::IfElseConstr::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match::length&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match::Match&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match::Match::_l&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match::Match::_p&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Match::pos&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::generateToken&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::input&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::output&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::Method::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Method::RecursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType&quot; -  (Enumeration)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Action&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::ActionParam&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Case&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Do&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Else&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::For&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::If&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Method&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Switch&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::Variable&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::ObjectType::While&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Program&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr::condition&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SwitchConstr::SwitchConstr::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SystemConstruction&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SystemConstruction::Condition&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SystemConstruction::Node&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SystemConstruction::SystemConstruction&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::SystemConstruction::Variables&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::TileMatch&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::TileMatch::match&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::TileMatch::p&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::TileMatch::t&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::TileMatch::TileMatch&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::generateToken&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Node&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::RecursiveChildrenList&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Types&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Value&quot; -  (Property)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::mods&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::types&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::Variable::Variable::value&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr&quot; -  (Class)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr&quot; -  (Operation)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr::body&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr::bufferOffset&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr::condition&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr::length&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::DiplomProject1::WhileConstr::WhileConstr::pos&quot; -  (Parameter)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;Coord‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;Match‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;String‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;TileMatch‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Collections::Generic::List&lt;Variable‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::ComponentModel&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::ComponentModel::IContainer&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Double&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::EventArgs&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::IComparable&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::IComparable&lt;CodeObjectInterface‎&gt;&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::IComparable&lt;Coord‎&gt;&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Object&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms&quot; -  (Package)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::Button&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::Form&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::GroupBox&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::Label&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::OpenFileDialog&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::RichTextBox&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::SplitContainer&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::TrackBar&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::TreeNode&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Diplom::System::Windows::Forms::TreeView&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Coord в Diplom::System::IComparable&lt;Coord‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Action в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Action в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::ActionParam в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::BasicSyntaxObjects в Diplom::DiplomProject1::BasicSyntaxObjects (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Controller в Diplom::DiplomProject1::Controller (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Defenition в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::DoWhileConstr в Diplom::DiplomProject1::SystemConstruction (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::FileCode в Diplom::System::Windows::Forms::TreeNode (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::FileCode в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::FileCode в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::ForConstr в Diplom::DiplomProject1::SystemConstruction (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Form1 в Diplom::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::IfElseConstr в Diplom::DiplomProject1::SystemConstruction (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Method в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Method в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::SwitchConstr в Diplom::DiplomProject1::SystemConstruction (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::SystemConstruction в Diplom::System::Windows::Forms::TreeNode (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::SystemConstruction в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Variable в Diplom::System::Windows::Forms::TreeNode (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Variable в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::Variable в Diplom::DiplomProject1::CodeObjectInterface (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::WhileConstr в Diplom::DiplomProject1::SystemConstruction (Generalization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::CodeObjectInterface в Diplom::System::Windows::Forms::TreeNode (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::CodeObjectInterface в Diplom::System::Collections::Generic::List&lt;CodeObjectInterface‎&gt; (Association)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::CodeObjectInterface в Diplom::System::IComparable&lt;CodeObjectInterface‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::CodeObjectInterface в Diplom::System::IComparable&lt;Coord‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: Diplom::DiplomProject1::CodeObjectInterface в Diplom::System::IComparable (InterfaceRealization)" />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="High" Text="Полностью реконструировано (22) типов." />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="High" Text="Частично реконструировано (24) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2016-06-20T11:44:22" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>

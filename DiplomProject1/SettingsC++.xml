@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <Operators>
+    <Operator>new</Operator>
+    <Operator>break</Operator>
+    <Operator>continue</Operator>
+    <Operator>delete</Operator>
+    <Operator>return</Operator>
+  </Operators>
+  <Operations>
+    <Operation>+</Operation>
+    <Operation>-</Operation>
+    <Operation>/</Operation>
+    <Operation>*</Operation>
+    <Operation>=</Operation>
+    <Operation>%</Operation>
+    <Operation>&amp;</Operation>
+    <Operation>|</Operation>
+    <Operation>^</Operation>
+    <Operation>~</Operation>
+    <Operation>+=</Operation>
+    <Operation>-=</Operation>
+    <Operation>*=</Operation>
+    <Operation>/=</Operation>
+    <Operation>%=</Operation>
+    <Operation>&amp;=</Operation>
+    <Operation>|=</Operation>
+    <Operation>^=</Operation>
+    <Operation>++</Operation>
+    <Operation>--</Operation>
+    <Operation>&lt;&lt;</Operation>
+    <Operation>&gt;&gt;</Operation>
+    <Operation>&lt;&lt;=</Operation>
+    <Operation>&gt;&gt;=</Operation>
+
+    <Operation>&lt;</Operation>
+    <Operation>&gt;</Operation>
+    <Operation>&lt;=</Operation>
+    <Operation>&gt;=</Operation>
+    <Operation>&amp;&amp;</Operation>
+    <Operation>||</Operation>
+  
+</Operations>
+  <IgnoreOperators>
+    
+  </IgnoreOperators>
+  <Types>
+    <Type>int</Type>
+    <Type>float</Type>
+    <Type>double</Type>
+    <Type>long</Type>
+    <Type>short</Type>
+    <Type>char</Type>
+    <Type>bool</Type>
+    <Type>void</Type>
+    <Type>wchar_t</Type>
+    <Type>auto</Type>
+  </Types>
+  <Modifiers>
+    <Modifier>unsigned</Modifier>
+    <Modifier>signed</Modifier>
+    <Modifier>virtual</Modifier>
+    <Modifier>short</Modifier>
+    <Modifier>long</Modifier>
+    <Modifier>static</Modifier>
+    <Modifier>const</Modifier>
+    <Modifier>volatile</Modifier>
+    <Modifier>restrict</Modifier>
+    <Modifier>auto</Modifier>
+    <Modifier>extern</Modifier>
+    <Modifier>register</Modifier>
+    <Modifier>mutable</Modifier>
+    <Modifier>typedef</Modifier>
+  </Modifiers>
+  <Preprocessors>
+    <Preprocessor>#define\s+(\b\S+\b)\b(.*)</Preprocessor>
+    <Preprocessor>(#include)\s+"([^"]+)"</Preprocessor>
+    <Preprocessor>(#include)\s+.([^>]+)></Preprocessor>
+  </Preprocessors>
+  <Functions>
+    <Function>((?&lt;Output&gt;\b[\w\d_&lt;&gt;*&amp;]+)[\s\n\t]+)+(?&lt;Output&gt;[*&amp;])?[\s\n\t]*(?&lt;Name&gt;[\w\d_]+)[\s\n\t]* \([\s\n\t]* ((?&lt;Input&gt; \b[\w\d_&lt;&gt;*&amp;]+ [\s\n\t]* [*&amp;]?[\s\n\t]*[\w\d_]+)[\s\n\t]*,?[\s\n\t]*)* \)[\s\n]*(?&lt;Output&gt;\b[\w\d_]+\b)*[\s\n\t]*{</Function>
+  </Functions>
+  <Classes>
+    <Class>(template[\s\n]*&lt;[^&gt;]*&gt;[\s\n]*)?\bclass\b[\s\n\t]+\b[\w\d_]+\b[\s\n\t]*([\w\d_,:]+[\s\n\t]*)*{([^{]*{[^}]*}[^{}]*)*};</Class>
+    <Class>(template[\s\n\t]*&lt;[^&gt;]*&gt;[\s\n\t]*)?\bstruct\b[\s\n\t]+\b[\w\d_]+\b[\s\n\t]*([\w\d_,:]+[\s\n\t]*)*{({[^}]*}|[^}])*[\s\n\t]*}[\s\n\t]*((([\w\d_]+)[\s\n\t,]*)*)?;</Class>  
+  </Classes>
+  <Variables>
+    <Variable>((?&lt;Type&gt;\b[\w\d_&lt;&gt;*&amp;]+)[\s\n\t]+)+ (?&lt;Var&gt;[\s\n\t]* (?&lt;Type&gt;[*&amp;])? [\s\n\t]* (?&lt;Name&gt;[\w\d_]+\b) [\s\n\t]* (?&lt;Modif&gt;((\[[\d]*\][\s\n\t]*)+)?) ([\s\n\t]* = [\s\n\t]*(?&lt;Value&gt;[^,;]+))?[\s\n\t]*,?[\s\n\t]*)+;</Variable>
+  </Variables>
+  <Others>
+    <Other>(\b[*\w\d_&lt;&gt;&amp;]+[\s\n\t]+)+(\b[\w\d_]+\b)[\s\n\t]*\([^\)]*\)[\s\n\t]*;</Other>
+    <Other>(template[\s\n]*&lt;[^&gt;]*&gt;[\s\n]*)?\bclass\b[\s\n\t]+\b[\w\d_]+\b[\s\n\t]+([\w\d_,:]+)*;</Other>
+    <Other>(template[\s\n]*&lt;[^&gt;]*&gt;[\s\n]*)?\bstruct\b[\s\n\t]+\b[\w\d_]+\b[\s\n\t]+([\w\d_,:]+)*;</Other> 
+    <Other>#endif</Other>
+  </Others>
+  <Comments>
+    <Comment>/\*[^(*/)]*\*/</Comment>
+    <Comment>//[^\n\r]*</Comment>
+  </Comments>
+</ROOT>
